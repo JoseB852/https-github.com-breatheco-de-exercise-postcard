@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@0,100..900;1,100..900&display=swap');
+body{  
+
+    background-color: black;
+    font-family: "REM", sans-serif;
+}
+
+.container{
+
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 5%;
+    background-color: white;
+     
+   
+}
+
+.container .titulo{
+
+    width: 490px;
+    height: 90px;
+    margin-top: 2px;
+    margin-left: 1%;
+    display: flex;
+    justify-content: space-between; 
+
+}
+img {
+  
+    width: 10%;
+    height: 55%;
+    margin-top: 4%;
+    margin-right: 2%;  
+}
+
+ .body-card{
+
+    width: 490px;
+    height: 140px;
+    margin-top: 2px;
+    display:flex;
+    justify-content: space-between; 
+ }
+
+
+
+
+.relleno{
+
+    width: 200px;
+    height: 110px;
+    padding: 1%;
+    margin-left: 6px;
+    display: flex;
+
+}
+
+.formulario{
+
+    width: 200px;
+    height: 100px;
+    padding: 3%;
+    margin-top: 2px;
+    
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+.footer{
+
+    width: 200px;
+    height: 50px;
+    padding: 1%;
+    
+}
+
+.boton{
+    text-align: center;
+    padding: 3%;
+}
